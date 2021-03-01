@@ -1,4 +1,7 @@
 randomX algo + xmrig
 https://xmrig.com/wizard 
 https://github.com/xmrig/xmrig
+
 xmrig.exe --donate-level 5 -o xmr.crypto-pool.fr:3333 -u 42Fjjoi8Z6UMNzud3CCpEfJMmZ7gB7kw1ERQkRPygxpFHLijA2LAwX2CvHGotTqFhjTJRhy7dZeuEHXYuQt2NP5jEvyFp8W -k --coin monero -a rx/0
+
+xmrig.exe --donate-level 5 -o xmr-eu1.nanopool.org:14444 -u 42Fjjoi8Z6UMNzud3CCpEfJMmZ7gB7kw1ERQkRPygxpFHLijA2LAwX2CvHGotTqFhjTJRhy7dZeuEHXYuQt2NP5jEvyFp8W -k --coin monero -a rx/0
